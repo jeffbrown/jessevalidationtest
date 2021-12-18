@@ -1,0 +1,4 @@
+package jessevalidationtest
+
+class AllocationItem {
+}
